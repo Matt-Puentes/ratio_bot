@@ -1,4 +1,3 @@
-from pydoc import cli
 import tweepy
 from credentials import *
 
